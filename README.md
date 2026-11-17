@@ -23,7 +23,7 @@
 
 <hr/>
 
-<h2 align="center">𚚀 En ce moment</h2>
+<h2 align="center">🚀 En ce moment</h2>
 
 <p align="center">
   <a href="https://github.com/ethn924/unity-fps-project" target="_blank">
@@ -40,12 +40,12 @@
 <p align="center">
   🎮 Je développe des prototypes de jeux sous <b>Unity 6 (URP, C#)</b><br/>
   🌱 J'apprends : <b>architecture logicielle, sécurité web, React</b><br/>
-  🛠️ Je maintiens plusieurs projets web et outils personnels
+  🛠 Je maintiens plusieurs projets web et outils personnels
 </p>
 
 <hr/>
 
-<h2 align="center">𛀙 Stack</h2>
+<h2 align="center">🛠 Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -62,9 +62,9 @@
 
 <hr/>
 
-<h2 align="center">𛀗 Projets</h2>
+<h2 align="center">📂 Projets</h2>
 
-<h3>���� Web</h3>
+<h3>🌐 Web</h3>
 
 <table>
   <tr>
@@ -119,7 +119,7 @@
   </tr>
 </table>
 
-<h3>���� Jeu vidéo</h3>
+<h3>🎮 Jeu vidéo</h3>
 
 <table>
   <tr>
@@ -136,7 +136,7 @@
 
 <hr/>
 
-<h2 align="center">𛀪 Stats</h2>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <a href="https://github.com/ethn924" target="_blank">
@@ -153,6 +153,6 @@
 <hr/>
 
 <p align="center">
-  <b>⭐️ Merci de votre visite !</b><br/>
+  <b>⭐ Merci de votre visite !</b><br/>
   <i>N'hésitez pas à me contacter ou à visiter mon portfolio.</i>
 </p>
