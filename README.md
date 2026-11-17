@@ -64,9 +64,11 @@
 ### 📊 Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ethn924&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Stats GitHub"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethn924&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Langages"/>
+  <a href="https://github.com/ethn924"><img src="https://img.shields.io/badge/repos-19-blue?style=flat-square&logo=github&logoColor=white" alt="Repos publics"/></a>
+  <a href="https://github.com/ethn924?tab=followers"><img src="https://img.shields.io/badge/followers-2-green?style=flat-square&logo=github&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/ethn924?tab=following"><img src="https://img.shields.io/badge/following-2-orange?style=flat-square&logo=github&logoColor=white" alt="Following"/></a>
 </p>
+<p align="center"><i>Plus de détails sur <a href="https://github.com/ethn924">mon profil GitHub</a></i></p>
 
 ---
 
