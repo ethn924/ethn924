@@ -16,7 +16,6 @@
 
 - 🎮 Je développe **SlugFlow**, un FPS roguelite solo sous Unity 6 (URP), axé sur un gunplay nerveux et des enchaînements de kills (projet privé pour le moment)
 - 🌱 J'apprends : architecture logicielle, C# / Unity, sécurité web, React
-- 📍 Courbevoie, France
 
 ### 🛠️ Stack
 
